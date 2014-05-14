@@ -1,6 +1,7 @@
 # Simple Navigation for Bootstrap
 This gem adds a renderer for [Simple Navigation](http://github.com/andi/simple-navigation) to output markup compatible 
-with [Twitter Bootstrap](http://twitter.github.com/bootstrap/).
+with [Twitter Bootstrap](http://twitter.github.com/bootstrap/) and
+[Sinatra](https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCsQFjAA&url=http%3A%2F%2Fwww.sinatrarb.com%2F&ei=1n5zU6OdEPH14QTi9oGoAQ&usg=AFQjCNFFFKzlCnMagiB-8gN7Iz9xgm7mRg&bvm=bv.66699033,d.bGE).
 
 ## Getting Started
 For Rails >= 3, simply add this gem to your `Gemfile`:
